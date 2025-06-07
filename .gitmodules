@@ -1,3 +1,6 @@
 [submodule "INFO8665-ProjectML/INFO8665-ProjectML-Moosic"]
 	path = INFO8665-ProjectML/INFO8665-ProjectML-Moosic
 	url = https://github.com/Thuang6413/INFO8665-ProjectML-Moosic.git
+[submodule "CSCN8020-25S-Sec1-RLP/Materials/playground"]
+	path = CSCN8020-25S-Sec1-RLP/Materials/playground
+	url = https://github.com/CSCN8020/playground.git
